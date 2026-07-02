@@ -21,3 +21,5 @@ vector_db/
 
 # Python cache
 .pytest_cache/
+
+*.pages
